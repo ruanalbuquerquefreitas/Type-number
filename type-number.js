@@ -9,4 +9,8 @@ console.log(operacaoMatematica);
 // ponto flutunte 
 
 const numeroPontoFlutuante = 3.3;
-const 
+const pontoFlutuanteSemZero = .5;
+
+const novaOperacao = primeiroNumero / numeroPontoFlutuante;
+
+console.log (novaOperacao);
